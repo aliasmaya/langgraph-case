@@ -1,0 +1,1 @@
+NODE_GENERATE = 'node_generate'
